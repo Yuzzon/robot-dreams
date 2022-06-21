@@ -1,5 +1,6 @@
 **/.terraform/*
-*.tfstate; *.tfstate.*
+*.tfstate
+*.tfstate.*
 .terraformrc
 terraform.rc
 *.tfvars

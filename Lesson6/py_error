@@ -1,0 +1,18 @@
+find: ‘/etc/polkit-1/localauthority’: Permission denied
+find: ‘/etc/ssl/private’: Permission denied
+find: ‘/mnt/c/Program Files/Windows Defender Advanced Threat Protection/Classification/Configuration’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/SystemData’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender Advanced Threat Protection/Cache’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender Advanced Threat Protection/Cyber’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender Advanced Threat Protection/DataCollection’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender Advanced Threat Protection/Downloads’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender Advanced Threat Protection/SenseCM’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender Advanced Threat Protection/Temp/PSScriptOutputs’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender Advanced Threat Protection/Trace’: Permission denied
+find: ‘/mnt/c/ProgramData/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/S-1-5-21-215560438-4131949540-660160952-36191/SystemAppData/Helium/Cache’: Permission denied
+find: ‘/mnt/c/System Volume Information’: Permission denied
+find: ‘/mnt/c/Users/yuriika/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs’: Permission denied
+find: ‘/mnt/c/Users/yuriika/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/temp/{7ecc1e9c-ff4b-4bcf-9040-c08b44ebad0d}’: Permission denied
+find: ‘/mnt/c/Windows/CSC’: Permission denied
+find: ‘/mnt/c/Windows/ServiceProfiles/LocalService/AppData/Local/Microsoft/Ngc’: Permission denied
+find: ‘/mnt/c/Windows/System32/LogFiles/WMI/RtBackup’: Permission denied

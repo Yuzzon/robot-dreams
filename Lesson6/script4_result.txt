@@ -1,0 +1,10 @@
+total 0
+lrwx------ 1 yuzzon yuzzon 0 Jul  7 23:13 0 -> /dev/tty1
+lrwx------ 1 yuzzon yuzzon 0 Jul  8 00:03 1 -> /dev/tty1
+lrwx------ 1 yuzzon yuzzon 0 Jul  8 00:03 2 -> /dev/tty1
+lrwx------ 1 yuzzon yuzzon 0 Jul  7 23:13 255 -> /dev/tty1
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0   8940   236 ?        Ssl  Jun30   0:00 /init
+root         7  0.0  0.0   8940   152 tty1     Ss   Jun30   0:00 /init
+yuzzon       8  0.0  0.0  18584  3128 tty1     S    Jun30   0:03 -bash
+yuzzon     774  0.0  0.0  18876  2040 tty1     R    00:03   0:00 ps -aux
